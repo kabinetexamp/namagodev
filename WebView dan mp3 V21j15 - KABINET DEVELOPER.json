@@ -8,7 +8,7 @@
 "HOMEURL" : "https://kabinetdeveloperexample.blogspot.com/2020/12/optimasi-blogger.html",
 
 // testing server json yang dipakai
-"JSON_POPUP_WAIT" : "ini adalah popup pertamaa ketika app dibuka",
+"JSON_POPUP_WAIT" : "ini yang bener nih tadi salah",
 
 // Redirect ke apps lain 
 "REDIRECT_TRAFFIC" : false,
